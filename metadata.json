@@ -1,0 +1,6 @@
+{
+  "name": "3 Sayı Sıralama Ödevi - Enes Öztürk",
+  "description": "Girilen 3 sayıyı küçükten büyüğe sıralayan, algoritma adımlarını ve kod örneklerini sunan interaktif ödev uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
